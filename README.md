@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+# Server bd json 
+Terminal: 
+cd src/assets/json 
+json-server --watch posts.json
+
 ## Build Setup
 
 ``` bash
